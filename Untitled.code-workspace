@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../startbootstrap-freelancer-gh-pages"
 		}
 	]
 }
