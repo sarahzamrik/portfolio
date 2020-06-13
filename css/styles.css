@@ -10203,24 +10203,3 @@ section.resume-section .resume-section-content {
   padding-bottom: 7rem;
   max-width: 75rem;
 }
-.projects
-{
-  align-items: center;
-  padding-left: 3rem;
-  padding-right: 3rem;
-  padding-top: 5rem;
-  padding-bottom: 3rem;
-  max-width: 75rem;
-}
-.carousel 
-{
-  width:440px;
-  height:160px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-.carousel-indicators
-{
-  padding-top: 10rem;
-}
